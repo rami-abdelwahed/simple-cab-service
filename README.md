@@ -1,5 +1,5 @@
 # simple-cab-service
-A SpringBoot application using mysql and Hazelcast.
+A SpringBoot application using mysql as a data store and Hazelcast as a cache.
 
 # Configuration
 
